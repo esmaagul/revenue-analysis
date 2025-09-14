@@ -28,8 +28,9 @@ We aimed to answer the following questions:
 ---
 
 ## 📊 Dashboard
+You can explore the interactive dashboard on Tableau Public:
+🔗 [Game Analytics Dashboard](https://public.tableau.com/app/profile/esma.g.17778/viz/pp_17575398058050/GameAnalytics)
 
-📎 **Tableau Public link:** [Insert your link here]  
 📌 The dashboard includes the following indicators:
 
 - Monthly Recurring Revenue (MRR)  
