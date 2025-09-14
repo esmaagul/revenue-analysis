@@ -3,4 +3,4 @@
 This repository includes the SQL queries and datasets used to build the **Game Analytics Dashboard**.
 
 🔗 Tableau Public Link:  
-https://public.tableau.com/app/profile/esma.g.17778/viz/pp_17575398058050/GameAnalytics
+🔗 [Game Analytics Dashboard](https://public.tableau.com/app/profile/esma.g.17778/viz/pp_17575398058050/GameAnalytics)
